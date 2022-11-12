@@ -1,11 +1,5 @@
 {
   "users": [
-    "nick",
-    "secret",
-    {
-      "username": "nick",
-      "password": "secret"
-    },
     {
       "name": "Coleman Denesik III",
       "dob": "1950-10-17",
